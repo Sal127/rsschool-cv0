@@ -1,4 +1,5 @@
 #Salavat Mulyukov
+![](/rsschool-cv/image/DSC_1362.jpg)
 ##Contacts
 * __Location:__ Ufa, Russia
 * __Phone:__ +7 917 362-91-50  
