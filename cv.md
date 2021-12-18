@@ -8,3 +8,8 @@
 * __nick name:__ @sal127
 ##About Me
 I have a great desire to become a programmer. My goal is to finish my studies at RSschool and find a job as a programmer. My strengths are the ability to work in a team, discipline and the desire to develop in the field of programming.
+##Skills
+* HTML
+* CSS (Bootstrap)
+* JavaScript (Basic)
+* Git
