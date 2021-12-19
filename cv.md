@@ -13,3 +13,21 @@ I have a great desire to become a programmer. My goal is to finish my studies at
 * CSS (Bootstrap)
 * JavaScript (Basic)
 * Git
+##Code Example
+```html
+let money;
+function start() {
+    money = +prompt("Ваш бюджет на месяц?", "");
+    while(isNaN(money) || money == "" || money == null) {
+        money = +prompt("Ваш бюджет на месяц?", "");
+    }
+}
+start(); 
+```
+##Education
+- __Ufa State Aviation Technical University__
+    - Specialty engineer
+- __Udemy__
+    - HTML/CSS
+    - JavaScript
+
