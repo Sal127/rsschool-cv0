@@ -30,4 +30,7 @@ start();
 - __Udemy__
     - HTML/CSS
     - JavaScript
+## Languages
+* __Russian__ - native speaker
+* __English__ - A2
 
