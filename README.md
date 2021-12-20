@@ -1,1 +1,1 @@
-https://sal127.github.io/rsschool-cv/
+https://sal127.github.io/rsschool-cv/cv
