@@ -19,7 +19,7 @@ I have a great desire to become a programmer. My goal is to finish my studies at
 * Git
 
 ##Code Example
-```html
+```javascript
 let money;
 function start() {
     money = +prompt("Ваш бюджет на месяц?", "");
