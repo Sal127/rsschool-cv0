@@ -22,9 +22,9 @@ I have a great desire to become a programmer. My goal is to finish my studies at
 ```javascript
 let money;
 function start() {
-    money = +prompt("Ваш бюджет на месяц?", "");
+    money = +prompt("Your budget for the month?", "");
     while(isNaN(money) || money == "" || money == null) {
-        money = +prompt("Ваш бюджет на месяц?", "");
+        money = +prompt("Your budget for the month?", "");
     }
 }
 start(); 
